@@ -3,6 +3,7 @@
     "*.embeddedhtml": "html",
     "compare": "c",
     "cstdint": "c",
-    "stdint.h": "c"
+    "stdint.h": "c",
+    "inttypes.h": "c"
   }
 }
