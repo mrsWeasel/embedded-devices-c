@@ -4,6 +4,7 @@
     "compare": "c",
     "cstdint": "c",
     "stdint.h": "c",
-    "inttypes.h": "c"
+    "inttypes.h": "c",
+    "stdio.h": "c"
   }
 }
