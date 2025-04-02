@@ -5,6 +5,7 @@
     "cstdint": "c",
     "stdint.h": "c",
     "inttypes.h": "c",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "cstdlib": "c"
   }
 }
